@@ -1,5 +1,5 @@
 {
-    "name": "nexus/common",
+    "name": "nexus/jwt-auth",
     "description": "JSON Web Token Authentication for Laravel",
     "license": "MIT",
     "require": {
